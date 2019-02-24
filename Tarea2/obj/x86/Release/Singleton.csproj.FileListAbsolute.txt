@@ -1,0 +1,6 @@
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Release\Singleton.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Release\Singleton.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Release\Librerias.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\bin\Release\Librerias.pdb
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\obj\x86\Release\Singleton.exe
+C:\Users\unicauca\Documents\Visual Studio 2010\Projects\PatronesDiseño\Singleton\obj\x86\Release\Singleton.pdb
