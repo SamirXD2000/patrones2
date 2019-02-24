@@ -1,0 +1,15 @@
+C:\Users\Samir\source\repos\Tarea3\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\Samir\source\repos\Tarea3\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\Samir\source\repos\Tarea3\Tarea3\bin\Debug\Tarea3.pdb
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.csprojAssemblyReference.cache
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3_MarkupCompile.cache
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3_MarkupCompile.lref
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.g.resources
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.Properties.Resources.resources
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.GenerateResource.cache
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Tarea3.pdb
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Model\MainWindow.g.cs
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\View\App.g.cs
+C:\Users\Samir\source\repos\Tarea3\Tarea3\obj\Debug\Model\MainWindow.baml
