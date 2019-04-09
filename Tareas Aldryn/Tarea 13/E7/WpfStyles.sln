@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfStyles", "WpfStyles\WpfStyles.csproj", "{66F3403D-2EE1-4BEF-B458-99ACA24248EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F3403D-2EE1-4BEF-B458-99ACA24248EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F3403D-2EE1-4BEF-B458-99ACA24248EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F3403D-2EE1-4BEF-B458-99ACA24248EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F3403D-2EE1-4BEF-B458-99ACA24248EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D8D05E-B7B3-4791-AA43-D048BC89647D}
+	EndGlobalSection
+EndGlobal

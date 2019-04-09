@@ -1,0 +1,15 @@
+C:\Users\Samir\source\repos\E1\E1\bin\Debug\E1.exe.config
+C:\Users\Samir\source\repos\E1\E1\bin\Debug\E1.exe
+C:\Users\Samir\source\repos\E1\E1\bin\Debug\E1.pdb
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1.csprojAssemblyReference.cache
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\MainWindow.g.cs
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\App.g.cs
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1_MarkupCompile.cache
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1_MarkupCompile.lref
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\MainWindow.baml
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1.g.resources
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1.Properties.Resources.resources
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1.csproj.GenerateResource.cache
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1.exe
+C:\Users\Samir\source\repos\E1\E1\obj\Debug\E1.pdb

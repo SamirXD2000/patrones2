@@ -1,0 +1,7 @@
+C:\Users\FEDERICO DIAZ\source\repos\AdapterWrappedBueno\AdapterWrappedBueno\bin\Debug\AdapterWrappedBueno.exe.config
+C:\Users\FEDERICO DIAZ\source\repos\AdapterWrappedBueno\AdapterWrappedBueno\bin\Debug\AdapterWrappedBueno.exe
+C:\Users\FEDERICO DIAZ\source\repos\AdapterWrappedBueno\AdapterWrappedBueno\bin\Debug\AdapterWrappedBueno.pdb
+C:\Users\FEDERICO DIAZ\source\repos\AdapterWrappedBueno\AdapterWrappedBueno\obj\Debug\AdapterWrappedBueno.csprojAssemblyReference.cache
+C:\Users\FEDERICO DIAZ\source\repos\AdapterWrappedBueno\AdapterWrappedBueno\obj\Debug\AdapterWrappedBueno.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO DIAZ\source\repos\AdapterWrappedBueno\AdapterWrappedBueno\obj\Debug\AdapterWrappedBueno.exe
+C:\Users\FEDERICO DIAZ\source\repos\AdapterWrappedBueno\AdapterWrappedBueno\obj\Debug\AdapterWrappedBueno.pdb

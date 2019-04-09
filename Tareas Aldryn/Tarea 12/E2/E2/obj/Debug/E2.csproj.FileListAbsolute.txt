@@ -1,0 +1,14 @@
+C:\Users\Samir\source\repos\E2\E2\bin\Debug\E2.exe.config
+C:\Users\Samir\source\repos\E2\E2\bin\Debug\E2.exe
+C:\Users\Samir\source\repos\E2\E2\bin\Debug\E2.pdb
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\MainWindow.g.cs
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\App.g.cs
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2_MarkupCompile.cache
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2_MarkupCompile.lref
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\MainWindow.baml
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2.g.resources
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2.Properties.Resources.resources
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2.csproj.GenerateResource.cache
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2.exe
+C:\Users\Samir\source\repos\E2\E2\obj\Debug\E2.pdb

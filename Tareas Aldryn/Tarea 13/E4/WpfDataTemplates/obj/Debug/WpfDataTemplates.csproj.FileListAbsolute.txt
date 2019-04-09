@@ -1,0 +1,14 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\bin\Debug\WpfDataTemplates.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\bin\Debug\WpfDataTemplates.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\bin\Debug\WpfDataTemplates.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDataTemplates\WpfDataTemplates\obj\Debug\WpfDataTemplates.pdb

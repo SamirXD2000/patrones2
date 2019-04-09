@@ -1,0 +1,14 @@
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\MainWindow.g.cs
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\App.g.cs
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4_MarkupCompile.cache
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4_MarkupCompile.lref
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4.exe
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4.pdb
+C:\Users\Samir\source\repos\E4\E4\bin\Debug\E4.exe.config
+C:\Users\Samir\source\repos\E4\E4\bin\Debug\E4.exe
+C:\Users\Samir\source\repos\E4\E4\bin\Debug\E4.pdb
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\MainWindow.baml
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4.g.resources
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4.Properties.Resources.resources
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4.csproj.GenerateResource.cache
+C:\Users\Samir\source\repos\E4\E4\obj\Debug\E4.csproj.CoreCompileInputs.cache

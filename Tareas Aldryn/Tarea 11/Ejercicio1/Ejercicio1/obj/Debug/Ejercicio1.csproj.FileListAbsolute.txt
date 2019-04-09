@@ -1,0 +1,15 @@
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.g.cs
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\App.g.cs
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1_MarkupCompile.cache
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1_MarkupCompile.lref
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\MainWindow.baml
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.g.resources
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Samir\source\repos\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

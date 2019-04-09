@@ -1,0 +1,15 @@
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial.csprojAssemblyReference.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\MainWindow.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\App.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial_MarkupCompile.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial_MarkupCompile.lref
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\bin\Debug\Wpf-Tutorial.exe.config
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\bin\Debug\Wpf-Tutorial.exe
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\bin\Debug\Wpf-Tutorial.pdb
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\MainWindow.baml
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial.g.resources
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf_Tutorial.Properties.Resources.resources
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial.csproj.GenerateResource.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial.exe
+C:\Users\FEDERICO DIAZ\source\repos\Wpf-Tutorial\Wpf-Tutorial\obj\Debug\Wpf-Tutorial.pdb

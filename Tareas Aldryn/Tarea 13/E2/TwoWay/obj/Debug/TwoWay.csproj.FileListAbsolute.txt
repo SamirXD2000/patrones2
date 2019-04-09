@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\bin\Debug\TwoWay.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\bin\Debug\TwoWay.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\bin\Debug\TwoWay.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\TwoWay\TwoWay\obj\Debug\TwoWay.pdb

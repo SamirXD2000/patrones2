@@ -1,0 +1,15 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\bin\Debug\WpfDynamicResources.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\bin\Debug\WpfDynamicResources.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\bin\Debug\WpfDynamicResources.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources.csprojAssemblyReference.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfDynamicResources\WpfDynamicResources\obj\Debug\WpfDynamicResources.pdb

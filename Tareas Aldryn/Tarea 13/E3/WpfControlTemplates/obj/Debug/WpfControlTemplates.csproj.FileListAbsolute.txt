@@ -1,0 +1,14 @@
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\bin\Debug\WpfControlTemplates.exe.config
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\bin\Debug\WpfControlTemplates.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\bin\Debug\WpfControlTemplates.pdb
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\MainWindow.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\App.g.cs
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates_MarkupCompile.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates_MarkupCompile.lref
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\MainWindow.baml
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates.g.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates.Properties.Resources.resources
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates.csproj.GenerateResource.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates.csproj.CoreCompileInputs.cache
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates.exe
+C:\Users\mario_000\Documents\Cuarto Semestre\Herramientas de ing en software\Tarea 13\WpfControlTemplates\WpfControlTemplates\obj\Debug\WpfControlTemplates.pdb

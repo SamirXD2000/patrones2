@@ -1,0 +1,7 @@
+C:\Users\FEDERICO DIAZ\source\repos\FacadeExampleCS\FacadeExampleCS\obj\Debug\FacadeExampleCS.csprojAssemblyReference.cache
+C:\Users\FEDERICO DIAZ\source\repos\FacadeExampleCS\FacadeExampleCS\obj\Debug\FacadeExampleCS.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO DIAZ\source\repos\FacadeExampleCS\FacadeExampleCS\bin\Debug\FacadeExampleCS.exe.config
+C:\Users\FEDERICO DIAZ\source\repos\FacadeExampleCS\FacadeExampleCS\bin\Debug\FacadeExampleCS.exe
+C:\Users\FEDERICO DIAZ\source\repos\FacadeExampleCS\FacadeExampleCS\bin\Debug\FacadeExampleCS.pdb
+C:\Users\FEDERICO DIAZ\source\repos\FacadeExampleCS\FacadeExampleCS\obj\Debug\FacadeExampleCS.exe
+C:\Users\FEDERICO DIAZ\source\repos\FacadeExampleCS\FacadeExampleCS\obj\Debug\FacadeExampleCS.pdb

@@ -1,0 +1,14 @@
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\MainWindow.g.cs
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\App.g.cs
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3_MarkupCompile.cache
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3_MarkupCompile.lref
+C:\Users\Samir\source\repos\E3\E3\bin\Debug\E3.exe.config
+C:\Users\Samir\source\repos\E3\E3\bin\Debug\E3.exe
+C:\Users\Samir\source\repos\E3\E3\bin\Debug\E3.pdb
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\MainWindow.baml
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3.g.resources
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3.Properties.Resources.resources
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3.csproj.GenerateResource.cache
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3.exe
+C:\Users\Samir\source\repos\E3\E3\obj\Debug\E3.pdb
